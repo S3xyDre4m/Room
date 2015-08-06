@@ -3,28 +3,27 @@
    "author":"S3xyDre4m",
    "icon":null,
    "css":"https://rawgit.com/S3xyDre4m/Room/master/.gitignore",
-   "rules":{
-      "admin":"#6df2ea",
-      "ambassador":"#6df2ea",
-      "host":"#6df2ea",
-      "cohost":"#6df2ea",
-      "manager":"#6df2ea",
-      "bouncer":"#6df2ea",
-      "rdj":"#6df2ea",
-      "subscriber":"#7e7e7e",
-      "friend":"#7e7e7e",
-      "user":"#7e7e7e"
+   "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     false,
+        "forceSmartVote":       false
    },
-   "ccc":{
-      "admin":null,
-      "playback":null,
-      "ambassador":null,
-      "host":null,
-      "cohost":null,
-      "manager":null,
-      "bouncer":null,
-      "rdj":null,
-      "subscriber":null,
+    "ccc": {
+        "admin": "#6df2ea",
+        "ambassador": "#6df2ea",
+        "host": "#6df2ea",
+        "cohost": "#6df2ea",
+        "manager": "#6df2ea",
+        "bouncer": "#6df2ea",
+        "rdj": "#6df2ea",
+        "subscriber": "#7e7e7e",
+        "friend": "#7e7e7e",
+        "user": "#7e7e7e"
    },
    "images":{
       "background":null,
