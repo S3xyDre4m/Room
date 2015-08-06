@@ -12,16 +12,16 @@
         "forceSmartVote":       false
     },
         "ccc": {
-        "admin": "#6df2ea",
-        "ambassador": "#6df2ea",
-        "host": "#6df2ea",
-        "cohost": "#6df2ea",
-        "manager": "#6df2ea",
-        "bouncer": "#6df2ea",
-        "rdj": "#6df2ea",
-        "subscriber": "#7e7e7e",
-        "friend": "#7e7e7e",
-        "user": "#7e7e7e"
+        "admin":                "#42A5DC",
+        "ambassador":           "#84B423",
+        "host":                 "#F3508F",
+        "cohost":               "#F3508F",
+        "manager":              "#F3508F",
+        "bouncer":              "#F3508F",
+        "rdj":                  "#5DB4FF",
+        "subscriber":           "#A1A6B3",
+        "friend":               "#B35D88",
+        "user":                 "#8B92A3"
     },
     "images": {
         "admin": "https://cloud.githubusercontent.com/assets/8460503/9028854/3e42e85a-398f-11e5-96f8-64d16e775cb1.png",
