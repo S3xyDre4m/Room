@@ -2,7 +2,7 @@
    "room":"Just EDM Fans",
    "author":"S3xyDre4m",
    "icon":null,
-   "css":null,
+   "css":"https://rawgit.com/S3xyDre4m/Room/master/.gitignore",
    "rules":{
       "admin":"#6df2ea",
       "ambassador":"#6df2ea",
