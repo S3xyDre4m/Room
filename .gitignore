@@ -1,7 +1,7 @@
 {
-    "room":                     "Just EDM Fans ✌ Have Fun ✌",
-    "css":                      "https://rawgit.com/S3xyDre4m/Room/master/.gitignore",
-    "icon": null,
+    "room": "Just EDM Fans ✌ Have Fun ✌",
+    "css": "https://rawgit.com/S3xyDre4m/Room/master/.gitignore",
+    "icon": "http://icons.iconarchive.com/icons/aha-soft/jewelry/256/Snowflake-icon.png",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
