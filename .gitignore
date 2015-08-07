@@ -14,13 +14,13 @@
     },
         "ccc": {
         "admin":                null,
-        "ambassador":           "#F6FF74",
+        "ambassador":           null,
         "host":                 "#AD2F98",
         "cohost":               "#42A5DC",
         "manager":              "#42A5DC",
         "bouncer":              "#42A5DC",
         "rdj":                  "#5DB4FF",
-        "subscriber":           null,
+        "subscriber":           "#F6FF74",
         "friend":               "#90AD2F",
         "user":                 "#8B92A3"
     },
